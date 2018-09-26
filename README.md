@@ -1,6 +1,3 @@
 # testrepo
 test repo for learning purposes
-new edit
-asdasd
-asdasd
-NEWBLA
+Another line from patch-1 after not commited patch-2
